@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Telent_TCP/1.0.0": {
+        "runtime": {
+          "Telent_TCP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Telent_TCP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

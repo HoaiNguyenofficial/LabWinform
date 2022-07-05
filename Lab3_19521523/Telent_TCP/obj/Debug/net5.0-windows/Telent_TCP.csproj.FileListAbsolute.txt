@@ -1,0 +1,17 @@
+G:\Nam2\HK2\LapTrinhMang\ThucHanh\Lab03\Lab03\Telent_TCP\bin\Debug\net5.0-windows\Telent_TCP.exe
+G:\Nam2\HK2\LapTrinhMang\ThucHanh\Lab03\Lab03\Telent_TCP\bin\Debug\net5.0-windows\Telent_TCP.deps.json
+G:\Nam2\HK2\LapTrinhMang\ThucHanh\Lab03\Lab03\Telent_TCP\bin\Debug\net5.0-windows\Telent_TCP.runtimeconfig.json
+G:\Nam2\HK2\LapTrinhMang\ThucHanh\Lab03\Lab03\Telent_TCP\bin\Debug\net5.0-windows\Telent_TCP.runtimeconfig.dev.json
+G:\Nam2\HK2\LapTrinhMang\ThucHanh\Lab03\Lab03\Telent_TCP\bin\Debug\net5.0-windows\Telent_TCP.dll
+G:\Nam2\HK2\LapTrinhMang\ThucHanh\Lab03\Lab03\Telent_TCP\bin\Debug\net5.0-windows\ref\Telent_TCP.dll
+G:\Nam2\HK2\LapTrinhMang\ThucHanh\Lab03\Lab03\Telent_TCP\bin\Debug\net5.0-windows\Telent_TCP.pdb
+G:\Nam2\HK2\LapTrinhMang\ThucHanh\Lab03\Lab03\Telent_TCP\obj\Debug\net5.0-windows\Telent_TCP.Form1.resources
+G:\Nam2\HK2\LapTrinhMang\ThucHanh\Lab03\Lab03\Telent_TCP\obj\Debug\net5.0-windows\Telent_TCP.csproj.GenerateResource.cache
+G:\Nam2\HK2\LapTrinhMang\ThucHanh\Lab03\Lab03\Telent_TCP\obj\Debug\net5.0-windows\Telent_TCP.GeneratedMSBuildEditorConfig.editorconfig
+G:\Nam2\HK2\LapTrinhMang\ThucHanh\Lab03\Lab03\Telent_TCP\obj\Debug\net5.0-windows\Telent_TCP.AssemblyInfoInputs.cache
+G:\Nam2\HK2\LapTrinhMang\ThucHanh\Lab03\Lab03\Telent_TCP\obj\Debug\net5.0-windows\Telent_TCP.AssemblyInfo.cs
+G:\Nam2\HK2\LapTrinhMang\ThucHanh\Lab03\Lab03\Telent_TCP\obj\Debug\net5.0-windows\Telent_TCP.csproj.CoreCompileInputs.cache
+G:\Nam2\HK2\LapTrinhMang\ThucHanh\Lab03\Lab03\Telent_TCP\obj\Debug\net5.0-windows\Telent_TCP.dll
+G:\Nam2\HK2\LapTrinhMang\ThucHanh\Lab03\Lab03\Telent_TCP\obj\Debug\net5.0-windows\ref\Telent_TCP.dll
+G:\Nam2\HK2\LapTrinhMang\ThucHanh\Lab03\Lab03\Telent_TCP\obj\Debug\net5.0-windows\Telent_TCP.pdb
+G:\Nam2\HK2\LapTrinhMang\ThucHanh\Lab03\Lab03\Telent_TCP\obj\Debug\net5.0-windows\Telent_TCP.genruntimeconfig.cache
